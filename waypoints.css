@@ -1,0 +1,61 @@
+/**************************************************************
+==========================================================
+== Project    : Display Path of Waypoints on Map Page
+== Created by : MOHAMED CHIBANI - mohamedchibani1996@gmail.com
+==========================================================
+***************************************************************/
+
+input{
+	margin-left: 5px
+}
+
+.origin_address_section{
+	margin-top: 10px;
+}
+
+.address_origin,
+.address_destination{
+	width:350px;
+	margin-left:26px;
+}
+
+.lat_lng{
+	width: 200px;
+}
+
+.waypoint_address_section div {
+	margin: 5px 0 5px 20px;
+}
+
+.waypoint_address{
+	margin-bottom: 3px;
+	margin-top: 3px; 
+	width:310px;
+	display: inline-block;
+}
+
+.icon_add_way_point{
+	cursor: pointer; 
+	color:#000;
+	margin-top: 10px;
+	margin-left: 10px
+}
+
+.icon_map_pin{
+	margin-right:6px;
+	color:#000
+}
+
+.btn-get-path{
+	margin-left: 10%;
+}
+
+.destination_address_section{
+	margin-bottom: 10px;
+}
+
+.my_map{
+	width:100%; 
+	height:550px;
+	border-radius: 8px;
+}
