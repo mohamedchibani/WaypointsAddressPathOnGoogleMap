@@ -93,7 +93,7 @@
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
       <script src="waypoints.js"></script>
       <script async defer
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOAyxF8oJ7TpcZ3mrcZoHhysb8NMpLd98&callback=initMap&libraries=geometry,places&sensor=false"">
+            src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_KEY8&callback=initMap&libraries=geometry,places&sensor=false"">
       </script>
       
   </body>
